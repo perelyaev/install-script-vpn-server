@@ -14,4 +14,4 @@
 
 ### 1. Клонирование репозитория
 ```bash
-sudo apt update && sudo apt install -y git curl openssl systemd && rm -rf ~/install-script-vpn-server && git clone https://github.com/anten-ka/self-signed-cert-script-by-antenka.git && cd install-script-vpn-server && chmod +x install-script-vpn-server.sh && sudo ./install-script-vpn-server.sh
+sudo apt update && sudo apt install -y git curl openssl systemd && rm -rf ~/install-script-vpn-server && git clone https://github.com/perelyaev/install-script-vpn-server.git && cd install-script-vpn-server && chmod +x install-script-vpn-server.sh && sudo ./install-script-vpn-server.sh
